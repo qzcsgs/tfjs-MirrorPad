@@ -1,5 +1,12 @@
 # tfjs-MirrorPad
 
+## Quickstart
+``` bash
+$ npm install
+$ node mirror_pad.js
+```
+
+## Details
 create square tensor4d
 ```js
 // shape [1, 2, 2, 3]
